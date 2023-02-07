@@ -1,0 +1,15 @@
+1. Создание проекта (index.html, css/style.css)
+2. git init
+3. git config --global user.name "Artyom Melnikov"
+4. git config --global user.email "a.melnikov1996@yandex.ru"
+5. Создание файла .gitignore, внёс в него: **/*.sass, /bin, /admin, /config
+6. git add .
+7. git commit -m 'add new file'
+8. git branch main
+9. git checkout main
+10. Создание папки blog и в ней файлов index.js, index.html
+11. git add .
+12. git commit -m 'add folder blog'
+13. git checkout master
+14. git remote add origin https://github.com/MelArtProger/homework.git
+15. git push -u origin master
