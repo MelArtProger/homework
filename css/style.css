@@ -29,15 +29,19 @@ body {
 .block {
     width: 30%;
     margin: 0 auto;
-    text-align: center;
     background: #fff;
     border-radius: 5px;
-    padding: 50px 0;
+    padding: 50px;
 }
 
 .block h3 {
     color: #5d5d5d;
     font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.block code {
+    font-size: 16px;
 }
 
 .bottom-text {
